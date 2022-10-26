@@ -1,7 +1,7 @@
 <?php
 
 
-namespace LaravelMsGraphMail\Exceptions;
+namespace DPRMC\LaravelMsGraphMail\Exceptions;
 
 
 use Exception;

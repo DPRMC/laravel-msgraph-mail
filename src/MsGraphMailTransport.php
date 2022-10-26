@@ -1,7 +1,7 @@
 <?php
 
 
-namespace LaravelMsGraphMail;
+namespace DPRMC\LaravelMsGraphMail;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;

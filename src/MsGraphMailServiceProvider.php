@@ -1,7 +1,7 @@
 <?php
 
 
-namespace LaravelMsGraphMail;
+namespace DPRMC\LaravelMsGraphMail;
 
 use Illuminate\Support\ServiceProvider;
 use LaravelMsGraphMail\Exceptions\CouldNotSendMail;
